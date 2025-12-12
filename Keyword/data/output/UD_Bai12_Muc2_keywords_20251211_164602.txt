@@ -1,0 +1,10 @@
+Hệ cơ sở dữ liệu (Hệ CSDL)
+Hệ quản trị cơ sở dữ liệu (Hệ QTCSDL)
+Cơ sở dữ liệu (CSDL)
+Phần mềm ứng dụng CSDL
+Mô hình hai thành phần
+Phần mềm khách
+Phần 'chủ'
+Tra cứu trực tuyến điểm thi
+Giao diện lập trình ứng dụng (API)
+Khai thác thông tin từ CSDL

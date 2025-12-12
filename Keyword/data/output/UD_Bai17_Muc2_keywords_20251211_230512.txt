@@ -1,0 +1,10 @@
+MySQL
+HeidiSQL
+Hệ quản trị cơ sở dữ liệu (QTCSDL)
+Quản trị CSDL
+Cơ sở dữ liệu (CSDL)
+Mã nguồn mở
+Cài đặt MySQL
+Giao diện dòng lệnh MySQL
+Truy vấn SQL
+Kết nối CSDL

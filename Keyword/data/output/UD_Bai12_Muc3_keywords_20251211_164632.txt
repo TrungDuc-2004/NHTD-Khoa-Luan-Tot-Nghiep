@@ -1,0 +1,10 @@
+Hệ CSDL tập trung
+Hệ CSDL phân tán
+CSDL (Cơ sở dữ liệu)
+Hệ QTCSDL (Hệ quản trị CSDL)
+Mạng máy tính
+Trạm
+CSDL cục bộ
+Ứng dụng phân tán (ứng dụng toàn cục)
+Tính sẵn sàng
+Độ tin cậy

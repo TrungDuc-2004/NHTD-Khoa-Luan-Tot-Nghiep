@@ -1,0 +1,10 @@
+Quản trị cơ sở dữ liệu (CSDL)
+Lợi ích quản trị CSDL trên máy tính
+Hệ quản trị CSDL (QTCSDL)
+Quản lý dữ liệu thủ công
+Dư thừa dữ liệu
+Tính nhất quán của dữ liệu
+An ninh và an toàn dữ liệu
+Giao dịch ngân hàng
+Giao dịch trực tuyến
+Hạn chế sai sót

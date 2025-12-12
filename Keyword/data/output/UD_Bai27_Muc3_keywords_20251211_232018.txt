@@ -1,0 +1,16 @@
+================================================================================
+KEYWORD EXTRACTION REPORT
+================================================================================
+
+Dưới đây là 10 từ khóa quan trọng nhất được trích xuất từ tài liệu:
+
+Thiết lập màu sắc
+Kênh alpha
+Lớp ảnh
+Màu nổi (Foreground)
+Màu nền (Background)
+Trong suốt
+GIMP
+Công cụ Erase
+Color Picker
+Kênh màu cơ bản (RGB)

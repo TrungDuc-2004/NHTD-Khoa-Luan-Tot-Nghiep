@@ -1,0 +1,18 @@
+[2025-12-07 09:11:56,663] INFO - 🚀 Starting Gemini Keyword Extractor
+[2025-12-07 09:11:56,664] INFO - 🔎 Tìm thấy 1 file để xử lý.
+[2025-12-07 09:11:56,664] INFO - 
+--- Processing 1/1: Bai01_Muc2.pdf ---
+[2025-12-07 09:11:56,664] INFO - ============================================================
+[2025-12-07 09:11:56,664] INFO - 🚀 EXTRACTING: Bai01_Muc2.pdf
+[2025-12-07 09:11:56,664] INFO - ============================================================
+[2025-12-07 09:11:56,664] INFO - 📎 Uploading binary file (.pdf)...
+[2025-12-07 09:11:56,666] INFO - 📎 Uploading file to Gemini: Bai01_Muc2.pdf
+[2025-12-07 09:12:00,721] INFO - 🔗 Sending request to Gemini API...
+[2025-12-07 09:12:18,071] INFO - 📥 Response received.
+[2025-12-07 09:12:18,072] INFO - 🔄 Parsing response to JSON...
+[2025-12-07 09:12:18,072] INFO - ✅ Found 15 keywords
+[2025-12-07 09:12:20,049] INFO - 🧹 Temp files cleared!
+[2025-12-07 09:12:20,052] INFO - 💾 Saved Report: D:\KLTN\Code\Keyword\data\output\Bai01_Muc2_keywords_20251207_091220.txt
+[2025-12-07 09:12:20,052] INFO - ✅ Đã lưu: D:\KLTN\Code\Keyword\data\output\Bai01_Muc2_keywords_20251207_091220.txt
+[2025-12-07 09:12:20,052] INFO - 
+🎉 Tất cả tác vụ đã hoàn tất!

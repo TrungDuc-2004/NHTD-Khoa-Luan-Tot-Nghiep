@@ -1,0 +1,16 @@
+================================================================================
+KEYWORD EXTRACTION REPORT
+================================================================================
+
+Dưới đây là 10 từ khóa quan trọng nhất được trích xuất từ tài liệu:
+
+Công cụ Healing
+Công cụ Clone
+Thay nền trời
+Tách phần phong cảnh
+Quản lý Layer
+Công cụ Gradient
+Xóa đối tượng khỏi ảnh
+Chỉnh sửa ảnh
+Add Alpha Channel
+Công cụ chọn tự do

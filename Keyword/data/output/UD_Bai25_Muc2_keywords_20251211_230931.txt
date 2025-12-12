@@ -1,0 +1,10 @@
+Phần mềm chỉnh sửa ảnh
+GIMP
+Giao diện GIMP
+Ảnh bitmap
+Bảng công cụ GIMP
+Cắt ảnh GIMP
+Phóng to thu nhỏ ảnh GIMP
+Xoay ảnh GIMP
+Tệp tin XCF
+Phần mềm nguồn mở

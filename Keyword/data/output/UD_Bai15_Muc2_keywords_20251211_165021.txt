@@ -1,0 +1,10 @@
+Bảo đảm an toàn dữ liệu
+Sự cố rủi ro dữ liệu
+Sự cố nguồn điện
+Hư hỏng thiết bị lưu trữ
+Sao lưu dữ liệu định kỳ
+Phục hồi dữ liệu
+Chính sách an toàn dữ liệu
+Hệ thống QTCSDL
+Bộ lưu điện (UPS)
+Quản lý tuổi thọ thiết bị

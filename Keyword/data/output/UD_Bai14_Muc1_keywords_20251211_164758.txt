@@ -1,0 +1,10 @@
+Ngôn ngữ truy vấn
+SQL (Structured Query Language)
+Hệ QTCSDL (Hệ Quản trị Cơ sở Dữ liệu)
+Truy xuất dữ liệu
+Lập trình theo thủ tục
+CSDL quan hệ (Cơ sở Dữ liệu quan hệ)
+DDL (Data Definition Language)
+DML (Data Manipulation Language)
+DCL (Data Control Language)
+Quản trị CSDL

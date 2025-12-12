@@ -1,0 +1,10 @@
+Cơ sở dữ liệu (CSDL)
+Lưu trữ dữ liệu có cấu trúc
+Tính cấu trúc dữ liệu
+Tính không dư thừa
+Tính độc lập dữ liệu
+Tính toàn vẹn dữ liệu
+Tính nhất quán dữ liệu
+Tính bảo mật và an toàn dữ liệu
+Khai thác dữ liệu
+Quản lí dữ liệu

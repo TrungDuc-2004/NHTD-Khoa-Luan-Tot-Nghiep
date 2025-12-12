@@ -1,0 +1,594 @@
+[2025-12-08 15:41:53,485] INFO - 🚀 Starting Gemini Keyword Extractor
+[2025-12-08 15:41:53,496] INFO - 🔎 Tìm thấy 90 file để xử lý.
+[2025-12-08 15:41:53,496] INFO - 
+--- Processing 1/90: Bai01_Muc1.pdf ---
+[2025-12-08 15:41:53,496] INFO - ============================================================
+[2025-12-08 15:41:53,496] INFO - 🚀 EXTRACTING: Bai01_Muc1.pdf
+[2025-12-08 15:41:53,496] INFO - ============================================================
+[2025-12-08 15:41:53,496] INFO - 📎 Uploading binary file (.pdf)...
+[2025-12-08 15:41:53,496] INFO - 📎 Uploading file to Gemini: Bai01_Muc1.pdf
+[2025-12-08 15:41:59,526] INFO - 🔗 Sending request to Gemini API...
+[2025-12-08 15:42:13,888] INFO - 📥 Response received.
+[2025-12-08 15:42:13,890] INFO - 🔄 Parsing response to JSON...
+[2025-12-08 15:42:13,890] INFO - ✅ Found 10 keywords
+[2025-12-08 15:42:15,899] INFO - 🧹 Temp files cleared!
+[2025-12-08 15:42:15,904] INFO - 💾 Saved Report: D:\KLTN\Code\Keyword\data\output\Bai01_Muc1_keywords_20251208_154215.txt
+[2025-12-08 15:42:15,904] INFO - ✅ Đã lưu: D:\KLTN\Code\Keyword\data\output\Bai01_Muc1_keywords_20251208_154215.txt
+[2025-12-08 15:42:15,904] INFO - 
+--- Processing 2/90: Bai01_Muc2.pdf ---
+[2025-12-08 15:42:15,904] INFO - ============================================================
+[2025-12-08 15:42:15,904] INFO - 🚀 EXTRACTING: Bai01_Muc2.pdf
+[2025-12-08 15:42:15,904] INFO - ============================================================
+[2025-12-08 15:42:15,905] INFO - 📎 Uploading binary file (.pdf)...
+[2025-12-08 15:42:15,905] INFO - 📎 Uploading file to Gemini: Bai01_Muc2.pdf
+[2025-12-08 15:42:20,276] INFO - 🔗 Sending request to Gemini API...
+[2025-12-08 15:42:39,127] INFO - 📥 Response received.
+[2025-12-08 15:42:39,127] INFO - 🔄 Parsing response to JSON...
+[2025-12-08 15:42:39,127] INFO - ✅ Found 10 keywords
+[2025-12-08 15:42:42,230] INFO - 🧹 Temp files cleared!
+[2025-12-08 15:42:42,232] INFO - 💾 Saved Report: D:\KLTN\Code\Keyword\data\output\Bai01_Muc2_keywords_20251208_154242.txt
+[2025-12-08 15:42:42,232] INFO - ✅ Đã lưu: D:\KLTN\Code\Keyword\data\output\Bai01_Muc2_keywords_20251208_154242.txt
+[2025-12-08 15:42:42,233] INFO - 
+--- Processing 3/90: Bai01_Muc3.pdf ---
+[2025-12-08 15:42:42,233] INFO - ============================================================
+[2025-12-08 15:42:42,233] INFO - 🚀 EXTRACTING: Bai01_Muc3.pdf
+[2025-12-08 15:42:42,233] INFO - ============================================================
+[2025-12-08 15:42:42,233] INFO - 📎 Uploading binary file (.pdf)...
+[2025-12-08 15:42:42,234] INFO - 📎 Uploading file to Gemini: Bai01_Muc3.pdf
+[2025-12-08 15:42:46,891] INFO - 🔗 Sending request to Gemini API...
+[2025-12-08 15:43:01,555] INFO - 📥 Response received.
+[2025-12-08 15:43:01,555] INFO - 🔄 Parsing response to JSON...
+[2025-12-08 15:43:01,556] INFO - ✅ Found 10 keywords
+[2025-12-08 15:43:04,549] INFO - 🧹 Temp files cleared!
+[2025-12-08 15:43:04,553] INFO - 💾 Saved Report: D:\KLTN\Code\Keyword\data\output\Bai01_Muc3_keywords_20251208_154304.txt
+[2025-12-08 15:43:04,553] INFO - ✅ Đã lưu: D:\KLTN\Code\Keyword\data\output\Bai01_Muc3_keywords_20251208_154304.txt
+[2025-12-08 15:43:04,553] INFO - 
+--- Processing 4/90: Bai02_Muc1.pdf ---
+[2025-12-08 15:43:04,553] INFO - ============================================================
+[2025-12-08 15:43:04,553] INFO - 🚀 EXTRACTING: Bai02_Muc1.pdf
+[2025-12-08 15:43:04,554] INFO - ============================================================
+[2025-12-08 15:43:04,554] INFO - 📎 Uploading binary file (.pdf)...
+[2025-12-08 15:43:04,554] INFO - 📎 Uploading file to Gemini: Bai02_Muc1.pdf
+[2025-12-08 15:43:09,826] INFO - 🔗 Sending request to Gemini API...
+[2025-12-08 15:43:28,359] INFO - 📥 Response received.
+[2025-12-08 15:43:28,359] INFO - 🔄 Parsing response to JSON...
+[2025-12-08 15:43:28,359] WARNING - ⚠️ Could not parse JSON. Returning raw text in error field.
+[2025-12-08 15:43:28,360] INFO - ✅ Found 0 keywords
+[2025-12-08 15:43:32,385] INFO - 🧹 Temp files cleared!
+[2025-12-08 15:43:32,385] WARNING - ⚠️ Không tìm thấy từ khóa nào trong file.
+[2025-12-08 15:43:32,386] INFO - 
+--- Processing 5/90: Bai02_Muc2.pdf ---
+[2025-12-08 15:43:32,386] INFO - ============================================================
+[2025-12-08 15:43:32,386] INFO - 🚀 EXTRACTING: Bai02_Muc2.pdf
+[2025-12-08 15:43:32,386] INFO - ============================================================
+[2025-12-08 15:43:32,386] INFO - 📎 Uploading binary file (.pdf)...
+[2025-12-08 15:43:32,386] INFO - 📎 Uploading file to Gemini: Bai02_Muc2.pdf
+[2025-12-08 15:43:37,934] INFO - 🔗 Sending request to Gemini API...
+[2025-12-08 15:43:56,418] INFO - 📥 Response received.
+[2025-12-08 15:43:56,418] INFO - 🔄 Parsing response to JSON...
+[2025-12-08 15:43:56,418] INFO - ✅ Found 10 keywords
+[2025-12-08 15:44:01,875] INFO - 🧹 Temp files cleared!
+[2025-12-08 15:44:01,877] INFO - 💾 Saved Report: D:\KLTN\Code\Keyword\data\output\Bai02_Muc2_keywords_20251208_154401.txt
+[2025-12-08 15:44:01,877] INFO - ✅ Đã lưu: D:\KLTN\Code\Keyword\data\output\Bai02_Muc2_keywords_20251208_154401.txt
+[2025-12-08 15:44:01,877] INFO - 
+--- Processing 6/90: Bai03_Muc1.pdf ---
+[2025-12-08 15:44:01,877] INFO - ============================================================
+[2025-12-08 15:44:01,877] INFO - 🚀 EXTRACTING: Bai03_Muc1.pdf
+[2025-12-08 15:44:01,877] INFO - ============================================================
+[2025-12-08 15:44:01,877] INFO - 📎 Uploading binary file (.pdf)...
+[2025-12-08 15:44:01,878] INFO - 📎 Uploading file to Gemini: Bai03_Muc1.pdf
+[2025-12-08 15:44:06,614] INFO - 🔗 Sending request to Gemini API...
+[2025-12-08 15:44:21,347] INFO - 📥 Response received.
+[2025-12-08 15:44:21,347] INFO - 🔄 Parsing response to JSON...
+[2025-12-08 15:44:21,347] INFO - ✅ Found 10 keywords
+[2025-12-08 15:44:27,063] INFO - 🧹 Temp files cleared!
+[2025-12-08 15:44:27,067] INFO - 💾 Saved Report: D:\KLTN\Code\Keyword\data\output\Bai03_Muc1_keywords_20251208_154427.txt
+[2025-12-08 15:44:27,067] INFO - ✅ Đã lưu: D:\KLTN\Code\Keyword\data\output\Bai03_Muc1_keywords_20251208_154427.txt
+[2025-12-08 15:44:27,068] INFO - 
+--- Processing 7/90: Bai03_Muc2.pdf ---
+[2025-12-08 15:44:27,068] INFO - ============================================================
+[2025-12-08 15:44:27,068] INFO - 🚀 EXTRACTING: Bai03_Muc2.pdf
+[2025-12-08 15:44:27,068] INFO - ============================================================
+[2025-12-08 15:44:27,068] INFO - 📎 Uploading binary file (.pdf)...
+[2025-12-08 15:44:27,068] INFO - 📎 Uploading file to Gemini: Bai03_Muc2.pdf
+[2025-12-08 15:44:30,951] INFO - 🔗 Sending request to Gemini API...
+[2025-12-08 15:44:47,071] INFO - 📥 Response received.
+[2025-12-08 15:44:47,072] INFO - 🔄 Parsing response to JSON...
+[2025-12-08 15:44:47,072] INFO - ✅ Found 10 keywords
+[2025-12-08 15:44:52,534] INFO - 🧹 Temp files cleared!
+[2025-12-08 15:44:52,537] INFO - 💾 Saved Report: D:\KLTN\Code\Keyword\data\output\Bai03_Muc2_keywords_20251208_154452.txt
+[2025-12-08 15:44:52,537] INFO - ✅ Đã lưu: D:\KLTN\Code\Keyword\data\output\Bai03_Muc2_keywords_20251208_154452.txt
+[2025-12-08 15:44:52,537] INFO - 
+--- Processing 8/90: Bai04_Muc1.pdf ---
+[2025-12-08 15:44:52,537] INFO - ============================================================
+[2025-12-08 15:44:52,537] INFO - 🚀 EXTRACTING: Bai04_Muc1.pdf
+[2025-12-08 15:44:52,537] INFO - ============================================================
+[2025-12-08 15:44:52,538] INFO - 📎 Uploading binary file (.pdf)...
+[2025-12-08 15:44:52,538] INFO - 📎 Uploading file to Gemini: Bai04_Muc1.pdf
+[2025-12-08 15:44:56,806] INFO - 🔗 Sending request to Gemini API...
+[2025-12-08 15:45:09,741] INFO - 📥 Response received.
+[2025-12-08 15:45:09,741] INFO - 🔄 Parsing response to JSON...
+[2025-12-08 15:45:09,742] INFO - ✅ Found 10 keywords
+[2025-12-08 15:45:17,009] INFO - 🧹 Temp files cleared!
+[2025-12-08 15:45:17,014] INFO - 💾 Saved Report: D:\KLTN\Code\Keyword\data\output\Bai04_Muc1_keywords_20251208_154517.txt
+[2025-12-08 15:45:17,014] INFO - ✅ Đã lưu: D:\KLTN\Code\Keyword\data\output\Bai04_Muc1_keywords_20251208_154517.txt
+[2025-12-08 15:45:17,014] INFO - 
+--- Processing 9/90: Bai04_Muc2.pdf ---
+[2025-12-08 15:45:17,014] INFO - ============================================================
+[2025-12-08 15:45:17,014] INFO - 🚀 EXTRACTING: Bai04_Muc2.pdf
+[2025-12-08 15:45:17,014] INFO - ============================================================
+[2025-12-08 15:45:17,014] INFO - 📎 Uploading binary file (.pdf)...
+[2025-12-08 15:45:17,015] INFO - 📎 Uploading file to Gemini: Bai04_Muc2.pdf
+[2025-12-08 15:45:21,181] INFO - 🔗 Sending request to Gemini API...
+[2025-12-08 15:45:31,888] INFO - 📥 Response received.
+[2025-12-08 15:45:31,889] INFO - 🔄 Parsing response to JSON...
+[2025-12-08 15:45:31,889] INFO - ✅ Found 10 keywords
+[2025-12-08 15:45:39,489] INFO - 🧹 Temp files cleared!
+[2025-12-08 15:45:39,493] INFO - 💾 Saved Report: D:\KLTN\Code\Keyword\data\output\Bai04_Muc2_keywords_20251208_154539.txt
+[2025-12-08 15:45:39,493] INFO - ✅ Đã lưu: D:\KLTN\Code\Keyword\data\output\Bai04_Muc2_keywords_20251208_154539.txt
+[2025-12-08 15:45:39,493] INFO - 
+--- Processing 10/90: Bai05_Muc1.pdf ---
+[2025-12-08 15:45:39,493] INFO - ============================================================
+[2025-12-08 15:45:39,494] INFO - 🚀 EXTRACTING: Bai05_Muc1.pdf
+[2025-12-08 15:45:39,494] INFO - ============================================================
+[2025-12-08 15:45:39,494] INFO - 📎 Uploading binary file (.pdf)...
+[2025-12-08 15:45:39,494] INFO - 📎 Uploading file to Gemini: Bai05_Muc1.pdf
+[2025-12-08 15:45:44,241] INFO - 🔗 Sending request to Gemini API...
+[2025-12-08 15:45:56,191] INFO - 📥 Response received.
+[2025-12-08 15:45:56,191] INFO - 🔄 Parsing response to JSON...
+[2025-12-08 15:45:56,192] INFO - ✅ Found 10 keywords
+[2025-12-08 15:46:03,937] INFO - 🧹 Temp files cleared!
+[2025-12-08 15:46:03,939] INFO - 💾 Saved Report: D:\KLTN\Code\Keyword\data\output\Bai05_Muc1_keywords_20251208_154603.txt
+[2025-12-08 15:46:03,939] INFO - ✅ Đã lưu: D:\KLTN\Code\Keyword\data\output\Bai05_Muc1_keywords_20251208_154603.txt
+[2025-12-08 15:46:03,939] INFO - 
+--- Processing 11/90: Bai05_Muc2.pdf ---
+[2025-12-08 15:46:03,939] INFO - ============================================================
+[2025-12-08 15:46:03,940] INFO - 🚀 EXTRACTING: Bai05_Muc2.pdf
+[2025-12-08 15:46:03,940] INFO - ============================================================
+[2025-12-08 15:46:03,940] INFO - 📎 Uploading binary file (.pdf)...
+[2025-12-08 15:46:03,940] INFO - 📎 Uploading file to Gemini: Bai05_Muc2.pdf
+[2025-12-08 15:46:08,439] INFO - 🔗 Sending request to Gemini API...
+[2025-12-08 15:46:23,901] INFO - 📥 Response received.
+[2025-12-08 15:46:23,902] INFO - 🔄 Parsing response to JSON...
+[2025-12-08 15:46:23,902] INFO - ✅ Found 10 keywords
+[2025-12-08 15:46:32,557] INFO - 🧹 Temp files cleared!
+[2025-12-08 15:46:32,560] INFO - 💾 Saved Report: D:\KLTN\Code\Keyword\data\output\Bai05_Muc2_keywords_20251208_154632.txt
+[2025-12-08 15:46:32,560] INFO - ✅ Đã lưu: D:\KLTN\Code\Keyword\data\output\Bai05_Muc2_keywords_20251208_154632.txt
+[2025-12-08 15:46:32,561] INFO - 
+--- Processing 12/90: Bai06_Muc1.pdf ---
+[2025-12-08 15:46:32,561] INFO - ============================================================
+[2025-12-08 15:46:32,561] INFO - 🚀 EXTRACTING: Bai06_Muc1.pdf
+[2025-12-08 15:46:32,561] INFO - ============================================================
+[2025-12-08 15:46:32,563] INFO - 📎 Uploading binary file (.pdf)...
+[2025-12-08 15:46:32,563] INFO - 📎 Uploading file to Gemini: Bai06_Muc1.pdf
+[2025-12-08 15:46:37,329] INFO - 🔗 Sending request to Gemini API...
+[2025-12-08 15:46:50,194] INFO - 📥 Response received.
+[2025-12-08 15:46:50,194] INFO - 🔄 Parsing response to JSON...
+[2025-12-08 15:46:50,194] INFO - ✅ Found 10 keywords
+[2025-12-08 15:46:59,962] INFO - 🧹 Temp files cleared!
+[2025-12-08 15:46:59,966] INFO - 💾 Saved Report: D:\KLTN\Code\Keyword\data\output\Bai06_Muc1_keywords_20251208_154659.txt
+[2025-12-08 15:46:59,966] INFO - ✅ Đã lưu: D:\KLTN\Code\Keyword\data\output\Bai06_Muc1_keywords_20251208_154659.txt
+[2025-12-08 15:46:59,966] INFO - 
+--- Processing 13/90: Bai06_Muc2.pdf ---
+[2025-12-08 15:46:59,966] INFO - ============================================================
+[2025-12-08 15:46:59,966] INFO - 🚀 EXTRACTING: Bai06_Muc2.pdf
+[2025-12-08 15:46:59,966] INFO - ============================================================
+[2025-12-08 15:46:59,966] INFO - 📎 Uploading binary file (.pdf)...
+[2025-12-08 15:46:59,967] INFO - 📎 Uploading file to Gemini: Bai06_Muc2.pdf
+[2025-12-08 15:47:05,234] INFO - 🔗 Sending request to Gemini API...
+[2025-12-08 15:47:20,671] INFO - 📥 Response received.
+[2025-12-08 15:47:20,671] INFO - 🔄 Parsing response to JSON...
+[2025-12-08 15:47:20,672] INFO - ✅ Found 10 keywords
+[2025-12-08 15:47:29,118] INFO - 🧹 Temp files cleared!
+[2025-12-08 15:47:29,122] INFO - 💾 Saved Report: D:\KLTN\Code\Keyword\data\output\Bai06_Muc2_keywords_20251208_154729.txt
+[2025-12-08 15:47:29,122] INFO - ✅ Đã lưu: D:\KLTN\Code\Keyword\data\output\Bai06_Muc2_keywords_20251208_154729.txt
+[2025-12-08 15:47:29,122] INFO - 
+--- Processing 14/90: Bai07_Muc1.pdf ---
+[2025-12-08 15:47:29,122] INFO - ============================================================
+[2025-12-08 15:47:29,122] INFO - 🚀 EXTRACTING: Bai07_Muc1.pdf
+[2025-12-08 15:47:29,122] INFO - ============================================================
+[2025-12-08 15:47:29,123] INFO - 📎 Uploading binary file (.pdf)...
+[2025-12-08 15:47:29,123] INFO - 📎 Uploading file to Gemini: Bai07_Muc1.pdf
+[2025-12-08 15:47:34,063] INFO - 🔗 Sending request to Gemini API...
+[2025-12-08 15:47:53,469] INFO - 📥 Response received.
+[2025-12-08 15:47:53,470] INFO - 🔄 Parsing response to JSON...
+[2025-12-08 15:47:53,470] INFO - ✅ Found 10 keywords
+[2025-12-08 15:48:04,594] INFO - 🧹 Temp files cleared!
+[2025-12-08 15:48:04,597] INFO - 💾 Saved Report: D:\KLTN\Code\Keyword\data\output\Bai07_Muc1_keywords_20251208_154804.txt
+[2025-12-08 15:48:04,597] INFO - ✅ Đã lưu: D:\KLTN\Code\Keyword\data\output\Bai07_Muc1_keywords_20251208_154804.txt
+[2025-12-08 15:48:04,598] INFO - 
+--- Processing 15/90: Bai07_Muc2.pdf ---
+[2025-12-08 15:48:04,598] INFO - ============================================================
+[2025-12-08 15:48:04,598] INFO - 🚀 EXTRACTING: Bai07_Muc2.pdf
+[2025-12-08 15:48:04,598] INFO - ============================================================
+[2025-12-08 15:48:04,598] INFO - 📎 Uploading binary file (.pdf)...
+[2025-12-08 15:48:04,599] INFO - 📎 Uploading file to Gemini: Bai07_Muc2.pdf
+[2025-12-08 15:48:09,534] INFO - 🔗 Sending request to Gemini API...
+[2025-12-08 15:48:31,214] INFO - 📥 Response received.
+[2025-12-08 15:48:31,214] INFO - 🔄 Parsing response to JSON...
+[2025-12-08 15:48:31,214] INFO - ✅ Found 10 keywords
+[2025-12-08 15:48:41,486] INFO - 🧹 Temp files cleared!
+[2025-12-08 15:48:41,491] INFO - 💾 Saved Report: D:\KLTN\Code\Keyword\data\output\Bai07_Muc2_keywords_20251208_154841.txt
+[2025-12-08 15:48:41,491] INFO - ✅ Đã lưu: D:\KLTN\Code\Keyword\data\output\Bai07_Muc2_keywords_20251208_154841.txt
+[2025-12-08 15:48:41,491] INFO - 
+--- Processing 16/90: Bai08_Muc1.pdf ---
+[2025-12-08 15:48:41,491] INFO - ============================================================
+[2025-12-08 15:48:41,491] INFO - 🚀 EXTRACTING: Bai08_Muc1.pdf
+[2025-12-08 15:48:41,492] INFO - ============================================================
+[2025-12-08 15:48:41,492] INFO - 📎 Uploading binary file (.pdf)...
+[2025-12-08 15:48:41,492] INFO - 📎 Uploading file to Gemini: Bai08_Muc1.pdf
+[2025-12-08 15:48:46,768] INFO - 🔗 Sending request to Gemini API...
+[2025-12-08 15:49:03,981] INFO - 📥 Response received.
+[2025-12-08 15:49:03,981] INFO - 🔄 Parsing response to JSON...
+[2025-12-08 15:49:03,981] INFO - ✅ Found 10 keywords
+[2025-12-08 15:49:15,789] INFO - 🧹 Temp files cleared!
+[2025-12-08 15:49:15,792] INFO - 💾 Saved Report: D:\KLTN\Code\Keyword\data\output\Bai08_Muc1_keywords_20251208_154915.txt
+[2025-12-08 15:49:15,793] INFO - ✅ Đã lưu: D:\KLTN\Code\Keyword\data\output\Bai08_Muc1_keywords_20251208_154915.txt
+[2025-12-08 15:49:15,793] INFO - 
+--- Processing 17/90: Bai08_Muc2.pdf ---
+[2025-12-08 15:49:15,793] INFO - ============================================================
+[2025-12-08 15:49:15,793] INFO - 🚀 EXTRACTING: Bai08_Muc2.pdf
+[2025-12-08 15:49:15,793] INFO - ============================================================
+[2025-12-08 15:49:15,794] INFO - 📎 Uploading binary file (.pdf)...
+[2025-12-08 15:49:15,794] INFO - 📎 Uploading file to Gemini: Bai08_Muc2.pdf
+[2025-12-08 15:49:20,019] INFO - 🔗 Sending request to Gemini API...
+[2025-12-08 15:49:36,774] INFO - 📥 Response received.
+[2025-12-08 15:49:36,774] INFO - 🔄 Parsing response to JSON...
+[2025-12-08 15:49:36,774] INFO - ✅ Found 10 keywords
+[2025-12-08 15:49:50,136] INFO - 🧹 Temp files cleared!
+[2025-12-08 15:49:50,141] INFO - 💾 Saved Report: D:\KLTN\Code\Keyword\data\output\Bai08_Muc2_keywords_20251208_154950.txt
+[2025-12-08 15:49:50,141] INFO - ✅ Đã lưu: D:\KLTN\Code\Keyword\data\output\Bai08_Muc2_keywords_20251208_154950.txt
+[2025-12-08 15:49:50,141] INFO - 
+--- Processing 18/90: Bai08_Muc3.pdf ---
+[2025-12-08 15:49:50,141] INFO - ============================================================
+[2025-12-08 15:49:50,142] INFO - 🚀 EXTRACTING: Bai08_Muc3.pdf
+[2025-12-08 15:49:50,142] INFO - ============================================================
+[2025-12-08 15:49:50,142] INFO - 📎 Uploading binary file (.pdf)...
+[2025-12-08 15:49:50,142] INFO - 📎 Uploading file to Gemini: Bai08_Muc3.pdf
+[2025-12-08 15:49:54,473] INFO - 🔗 Sending request to Gemini API...
+[2025-12-08 15:50:13,943] INFO - 📥 Response received.
+[2025-12-08 15:50:13,943] INFO - 🔄 Parsing response to JSON...
+[2025-12-08 15:50:13,943] INFO - ✅ Found 10 keywords
+[2025-12-08 15:50:24,836] INFO - 🧹 Temp files cleared!
+[2025-12-08 15:50:24,839] INFO - 💾 Saved Report: D:\KLTN\Code\Keyword\data\output\Bai08_Muc3_keywords_20251208_155024.txt
+[2025-12-08 15:50:24,839] INFO - ✅ Đã lưu: D:\KLTN\Code\Keyword\data\output\Bai08_Muc3_keywords_20251208_155024.txt
+[2025-12-08 15:50:24,839] INFO - 
+--- Processing 19/90: Bai08_Muc4.pdf ---
+[2025-12-08 15:50:24,839] INFO - ============================================================
+[2025-12-08 15:50:24,839] INFO - 🚀 EXTRACTING: Bai08_Muc4.pdf
+[2025-12-08 15:50:24,840] INFO - ============================================================
+[2025-12-08 15:50:24,840] INFO - 📎 Uploading binary file (.pdf)...
+[2025-12-08 15:50:24,840] INFO - 📎 Uploading file to Gemini: Bai08_Muc4.pdf
+[2025-12-08 15:50:29,343] INFO - 🔗 Sending request to Gemini API...
+[2025-12-08 15:50:45,069] INFO - 📥 Response received.
+[2025-12-08 15:50:45,069] INFO - 🔄 Parsing response to JSON...
+[2025-12-08 15:50:45,069] INFO - ✅ Found 10 keywords
+[2025-12-08 15:50:58,184] INFO - 🧹 Temp files cleared!
+[2025-12-08 15:50:58,187] INFO - 💾 Saved Report: D:\KLTN\Code\Keyword\data\output\Bai08_Muc4_keywords_20251208_155058.txt
+[2025-12-08 15:50:58,187] INFO - ✅ Đã lưu: D:\KLTN\Code\Keyword\data\output\Bai08_Muc4_keywords_20251208_155058.txt
+[2025-12-08 15:50:58,188] INFO - 
+--- Processing 20/90: Bai09_Muc1.pdf ---
+[2025-12-08 15:50:58,188] INFO - ============================================================
+[2025-12-08 15:50:58,188] INFO - 🚀 EXTRACTING: Bai09_Muc1.pdf
+[2025-12-08 15:50:58,188] INFO - ============================================================
+[2025-12-08 15:50:58,188] INFO - 📎 Uploading binary file (.pdf)...
+[2025-12-08 15:50:58,188] INFO - 📎 Uploading file to Gemini: Bai09_Muc1.pdf
+[2025-12-08 15:51:02,501] INFO - 🔗 Sending request to Gemini API...
+[2025-12-08 15:51:27,155] INFO - 📥 Response received.
+[2025-12-08 15:51:27,156] INFO - 🔄 Parsing response to JSON...
+[2025-12-08 15:51:27,156] INFO - ✅ Found 10 keywords
+[2025-12-08 15:51:41,749] INFO - 🧹 Temp files cleared!
+[2025-12-08 15:51:41,751] INFO - 💾 Saved Report: D:\KLTN\Code\Keyword\data\output\Bai09_Muc1_keywords_20251208_155141.txt
+[2025-12-08 15:51:41,751] INFO - ✅ Đã lưu: D:\KLTN\Code\Keyword\data\output\Bai09_Muc1_keywords_20251208_155141.txt
+[2025-12-08 15:51:41,752] INFO - 
+--- Processing 21/90: Bai09_Muc2.pdf ---
+[2025-12-08 15:51:41,752] INFO - ============================================================
+[2025-12-08 15:51:41,752] INFO - 🚀 EXTRACTING: Bai09_Muc2.pdf
+[2025-12-08 15:51:41,752] INFO - ============================================================
+[2025-12-08 15:51:41,752] INFO - 📎 Uploading binary file (.pdf)...
+[2025-12-08 15:51:41,753] INFO - 📎 Uploading file to Gemini: Bai09_Muc2.pdf
+[2025-12-08 15:51:47,032] INFO - 🔗 Sending request to Gemini API...
+[2025-12-08 15:52:07,437] INFO - 📥 Response received.
+[2025-12-08 15:52:07,437] INFO - 🔄 Parsing response to JSON...
+[2025-12-08 15:52:07,437] INFO - ✅ Found 10 keywords
+[2025-12-08 15:52:21,966] INFO - 🧹 Temp files cleared!
+[2025-12-08 15:52:21,968] INFO - 💾 Saved Report: D:\KLTN\Code\Keyword\data\output\Bai09_Muc2_keywords_20251208_155221.txt
+[2025-12-08 15:52:21,968] INFO - ✅ Đã lưu: D:\KLTN\Code\Keyword\data\output\Bai09_Muc2_keywords_20251208_155221.txt
+[2025-12-08 15:52:21,968] INFO - 
+--- Processing 22/90: Bai09_Muc_ThucHanh.pdf ---
+[2025-12-08 15:52:21,968] INFO - ============================================================
+[2025-12-08 15:52:21,968] INFO - 🚀 EXTRACTING: Bai09_Muc_ThucHanh.pdf
+[2025-12-08 15:52:21,969] INFO - ============================================================
+[2025-12-08 15:52:21,969] INFO - 📎 Uploading binary file (.pdf)...
+[2025-12-08 15:52:21,969] INFO - 📎 Uploading file to Gemini: Bai09_Muc_ThucHanh.pdf
+[2025-12-08 15:52:27,330] INFO - 🔗 Sending request to Gemini API...
+[2025-12-08 15:52:44,367] INFO - 📥 Response received.
+[2025-12-08 15:52:44,367] INFO - 🔄 Parsing response to JSON...
+[2025-12-08 15:52:44,367] INFO - ✅ Found 10 keywords
+[2025-12-08 15:52:57,452] INFO - 🧹 Temp files cleared!
+[2025-12-08 15:52:57,454] INFO - 💾 Saved Report: D:\KLTN\Code\Keyword\data\output\Bai09_Muc_ThucHanh_keywords_20251208_155257.txt
+[2025-12-08 15:52:57,455] INFO - ✅ Đã lưu: D:\KLTN\Code\Keyword\data\output\Bai09_Muc_ThucHanh_keywords_20251208_155257.txt
+[2025-12-08 15:52:57,455] INFO - 
+--- Processing 23/90: Bai11_Muc1.pdf ---
+[2025-12-08 15:52:57,455] INFO - ============================================================
+[2025-12-08 15:52:57,456] INFO - 🚀 EXTRACTING: Bai11_Muc1.pdf
+[2025-12-08 15:52:57,456] INFO - ============================================================
+[2025-12-08 15:52:57,456] INFO - 📎 Uploading binary file (.pdf)...
+[2025-12-08 15:52:57,456] INFO - 📎 Uploading file to Gemini: Bai11_Muc1.pdf
+[2025-12-08 15:53:01,784] INFO - 🔗 Sending request to Gemini API...
+[2025-12-08 15:53:02,220] ERROR - ❌ Gemini API Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 57.809767605s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+}
+, retry_delay {
+  seconds: 57
+}
+]
+[2025-12-08 15:53:02,220] INFO - 🔄 Parsing response to JSON...
+[2025-12-08 15:53:02,220] WARNING - ⚠️ Could not parse JSON. Returning raw text in error field.
+[2025-12-08 15:53:02,220] INFO - ✅ Found 0 keywords
+[2025-12-08 15:53:16,940] INFO - 🧹 Temp files cleared!
+[2025-12-08 15:53:16,940] WARNING - ⚠️ Không tìm thấy từ khóa nào trong file.
+[2025-12-08 15:53:16,941] INFO - 
+--- Processing 24/90: Bai11_Muc2.pdf ---
+[2025-12-08 15:53:16,941] INFO - ============================================================
+[2025-12-08 15:53:16,941] INFO - 🚀 EXTRACTING: Bai11_Muc2.pdf
+[2025-12-08 15:53:16,941] INFO - ============================================================
+[2025-12-08 15:53:16,941] INFO - 📎 Uploading binary file (.pdf)...
+[2025-12-08 15:53:16,941] INFO - 📎 Uploading file to Gemini: Bai11_Muc2.pdf
+[2025-12-08 15:53:22,096] INFO - 🔗 Sending request to Gemini API...
+[2025-12-08 15:53:22,417] ERROR - ❌ Gemini API Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 37.613294604s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+}
+, retry_delay {
+  seconds: 37
+}
+]
+[2025-12-08 15:53:22,418] INFO - 🔄 Parsing response to JSON...
+[2025-12-08 15:53:22,418] WARNING - ⚠️ Could not parse JSON. Returning raw text in error field.
+[2025-12-08 15:53:22,418] INFO - ✅ Found 0 keywords
+[2025-12-08 15:53:36,592] INFO - 🧹 Temp files cleared!
+[2025-12-08 15:53:36,592] WARNING - ⚠️ Không tìm thấy từ khóa nào trong file.
+[2025-12-08 15:53:36,592] INFO - 
+--- Processing 25/90: Bai11_Muc3.pdf ---
+[2025-12-08 15:53:36,592] INFO - ============================================================
+[2025-12-08 15:53:36,592] INFO - 🚀 EXTRACTING: Bai11_Muc3.pdf
+[2025-12-08 15:53:36,593] INFO - ============================================================
+[2025-12-08 15:53:36,593] INFO - 📎 Uploading binary file (.pdf)...
+[2025-12-08 15:53:36,593] INFO - 📎 Uploading file to Gemini: Bai11_Muc3.pdf
+[2025-12-08 15:53:41,181] INFO - 🔗 Sending request to Gemini API...
+[2025-12-08 15:53:41,495] ERROR - ❌ Gemini API Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 18.529593192s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+}
+, retry_delay {
+  seconds: 18
+}
+]
+[2025-12-08 15:53:41,495] INFO - 🔄 Parsing response to JSON...
+[2025-12-08 15:53:41,495] WARNING - ⚠️ Could not parse JSON. Returning raw text in error field.
+[2025-12-08 15:53:41,495] INFO - ✅ Found 0 keywords
+[2025-12-08 15:54:00,166] INFO - 🧹 Temp files cleared!
+[2025-12-08 15:54:00,166] WARNING - ⚠️ Không tìm thấy từ khóa nào trong file.
+[2025-12-08 15:54:00,166] INFO - 
+--- Processing 26/90: Bai12_Muc1.pdf ---
+[2025-12-08 15:54:00,166] INFO - ============================================================
+[2025-12-08 15:54:00,166] INFO - 🚀 EXTRACTING: Bai12_Muc1.pdf
+[2025-12-08 15:54:00,166] INFO - ============================================================
+[2025-12-08 15:54:00,166] INFO - 📎 Uploading binary file (.pdf)...
+[2025-12-08 15:54:00,166] INFO - 📎 Uploading file to Gemini: Bai12_Muc1.pdf
+[2025-12-08 15:54:04,120] INFO - 🔗 Sending request to Gemini API...
+[2025-12-08 15:54:04,431] ERROR - ❌ Gemini API Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 55.594062764s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+}
+, retry_delay {
+  seconds: 55
+}
+]
+[2025-12-08 15:54:04,431] INFO - 🔄 Parsing response to JSON...
+[2025-12-08 15:54:04,431] WARNING - ⚠️ Could not parse JSON. Returning raw text in error field.
+[2025-12-08 15:54:04,431] INFO - ✅ Found 0 keywords
+[2025-12-08 15:54:20,478] INFO - 🧹 Temp files cleared!
+[2025-12-08 15:54:20,478] WARNING - ⚠️ Không tìm thấy từ khóa nào trong file.
+[2025-12-08 15:54:20,478] INFO - 
+--- Processing 27/90: Bai12_Muc2.pdf ---
+[2025-12-08 15:54:20,478] INFO - ============================================================
+[2025-12-08 15:54:20,478] INFO - 🚀 EXTRACTING: Bai12_Muc2.pdf
+[2025-12-08 15:54:20,478] INFO - ============================================================
+[2025-12-08 15:54:20,478] INFO - 📎 Uploading binary file (.pdf)...
+[2025-12-08 15:54:20,479] INFO - 📎 Uploading file to Gemini: Bai12_Muc2.pdf
+[2025-12-08 15:54:39,585] INFO - 🧹 Temp files cleared!
+[2025-12-08 15:58:52,725] INFO - 🚀 Starting Gemini Keyword Extractor
+[2025-12-08 15:58:52,725] INFO - 🔎 Tìm thấy 1 file để xử lý.
+[2025-12-08 15:58:52,726] INFO - 
+--- Processing 1/1: Bai11_Muc1.pdf ---
+[2025-12-08 15:58:52,726] INFO - ============================================================
+[2025-12-08 15:58:52,726] INFO - 🚀 EXTRACTING: Bai11_Muc1.pdf
+[2025-12-08 15:58:52,726] INFO - ============================================================
+[2025-12-08 15:58:52,726] INFO - 📎 Uploading binary file (.pdf)...
+[2025-12-08 15:58:52,726] INFO - 📎 Uploading file to Gemini: Bai11_Muc1.pdf
+[2025-12-08 15:58:57,887] INFO - 🔗 Sending request to Gemini API...
+[2025-12-08 15:58:58,565] ERROR - ❌ Gemini API Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 1.464810846s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+}
+, retry_delay {
+  seconds: 1
+}
+]
+[2025-12-08 15:58:58,566] INFO - 🔄 Parsing response to JSON...
+[2025-12-08 15:58:58,566] WARNING - ⚠️ Could not parse JSON. Returning raw text in error field.
+[2025-12-08 15:58:58,566] INFO - ✅ Found 0 keywords
+[2025-12-08 15:59:00,825] INFO - 🧹 Temp files cleared!
+[2025-12-08 15:59:00,825] WARNING - ⚠️ Không tìm thấy từ khóa nào trong file.
+[2025-12-08 15:59:00,826] INFO - 
+🎉 Tất cả tác vụ đã hoàn tất!
+[2025-12-08 16:00:32,845] INFO - 🚀 Starting Gemini Keyword Extractor
+[2025-12-08 16:00:32,846] ERROR - ❌ Không tìm thấy file nào hợp lệ. Vui lòng kiểm tra đường dẫn!
+[2025-12-08 16:01:02,186] INFO - 🚀 Starting Gemini Keyword Extractor
+[2025-12-08 16:01:02,186] INFO - 🔎 Tìm thấy 1 file để xử lý.
+[2025-12-08 16:01:02,186] INFO - 
+--- Processing 1/1: Bai11_Muc1.pdf ---
+[2025-12-08 16:01:02,186] INFO - ============================================================
+[2025-12-08 16:01:02,186] INFO - 🚀 EXTRACTING: Bai11_Muc1.pdf
+[2025-12-08 16:01:02,186] INFO - ============================================================
+[2025-12-08 16:01:02,186] INFO - 📎 Uploading binary file (.pdf)...
+[2025-12-08 16:01:02,186] INFO - 📎 Uploading file to Gemini: Bai11_Muc1.pdf
+[2025-12-08 16:01:06,207] INFO - 🔗 Sending request to Gemini API...
+[2025-12-08 16:01:06,877] ERROR - ❌ Gemini API Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 53.150982398s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+}
+, retry_delay {
+  seconds: 53
+}
+]
+[2025-12-08 16:01:06,880] INFO - 🔄 Parsing response to JSON...
+[2025-12-08 16:01:06,880] WARNING - ⚠️ Could not parse JSON. Returning raw text in error field.
+[2025-12-08 16:01:06,880] INFO - ✅ Found 0 keywords
+[2025-12-08 16:01:08,413] INFO - 🧹 Temp files cleared!
+[2025-12-08 16:01:08,414] WARNING - ⚠️ Không tìm thấy từ khóa nào trong file.
+[2025-12-08 16:01:08,414] INFO - 
+🎉 Tất cả tác vụ đã hoàn tất!
+[2025-12-08 16:06:57,366] INFO - 🚀 Starting Gemini Keyword Extractor
+[2025-12-08 16:06:57,366] INFO - 🔎 Tìm thấy 1 file để xử lý.
+[2025-12-08 16:06:57,366] INFO - 
+--- Processing 1/1: Bai11_Muc1.pdf ---
+[2025-12-08 16:06:57,366] INFO - ============================================================
+[2025-12-08 16:06:57,367] INFO - 🚀 EXTRACTING: Bai11_Muc1.pdf
+[2025-12-08 16:06:57,367] INFO - ============================================================
+[2025-12-08 16:06:57,367] INFO - 📎 Uploading binary file (.pdf)...
+[2025-12-08 16:06:57,367] INFO - 📎 Uploading file to Gemini: Bai11_Muc1.pdf
+[2025-12-08 16:07:02,441] INFO - 🔗 Sending request to Gemini API...
+[2025-12-08 16:07:03,212] ERROR - ❌ Gemini API Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 56.823104763s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+}
+, retry_delay {
+  seconds: 56
+}
+]
+[2025-12-08 16:07:03,213] INFO - 🔄 Parsing response to JSON...
+[2025-12-08 16:07:03,213] WARNING - ⚠️ Could not parse JSON. Returning raw text in error field.
+[2025-12-08 16:07:03,213] INFO - ✅ Found 0 keywords
+[2025-12-08 16:07:05,095] INFO - 🧹 Temp files cleared!
+[2025-12-08 16:07:05,095] WARNING - ⚠️ Không tìm thấy từ khóa nào trong file.
+[2025-12-08 16:07:05,095] INFO - 
+🎉 Tất cả tác vụ đã hoàn tất!
+[2025-12-08 16:11:19,364] INFO - 🚀 Starting Gemini Keyword Extractor
+[2025-12-08 16:11:19,364] INFO - 🔎 Tìm thấy 1 file để xử lý.
+[2025-12-08 16:11:19,365] INFO - 
+--- Processing 1/1: Bai11_Muc1.pdf ---
+[2025-12-08 16:11:19,365] INFO - ============================================================
+[2025-12-08 16:11:19,365] INFO - 🚀 EXTRACTING: Bai11_Muc1.pdf
+[2025-12-08 16:11:19,365] INFO - ============================================================
+[2025-12-08 16:11:19,365] INFO - 📎 Uploading binary file (.pdf)...
+[2025-12-08 16:11:19,365] INFO - 📎 Uploading file to Gemini: Bai11_Muc1.pdf
+[2025-12-08 16:11:23,973] INFO - 🔗 Sending request to Gemini API...
+[2025-12-08 16:11:24,684] ERROR - ❌ Gemini API Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 35.383434073s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+}
+, retry_delay {
+  seconds: 35
+}
+]
+[2025-12-08 16:11:24,685] INFO - 🔄 Parsing response to JSON...
+[2025-12-08 16:11:24,685] WARNING - ⚠️ Could not parse JSON. Returning raw text in error field.
+[2025-12-08 16:11:24,686] INFO - ✅ Found 0 keywords
+[2025-12-08 16:11:26,957] INFO - 🧹 Temp files cleared!
+[2025-12-08 16:11:26,957] WARNING - ⚠️ Không tìm thấy từ khóa nào trong file.
+[2025-12-08 16:11:26,957] INFO - 
+🎉 Tất cả tác vụ đã hoàn tất!
+[2025-12-08 16:17:44,366] INFO - 🚀 Starting Gemini Keyword Extractor
+[2025-12-08 16:17:44,366] INFO - 🔎 Tìm thấy 1 file để xử lý.
+[2025-12-08 16:17:44,366] INFO - 
+--- Processing 1/1: Bai11_Muc1.pdf ---
+[2025-12-08 16:17:44,366] INFO - ============================================================
+[2025-12-08 16:17:44,366] INFO - 🚀 EXTRACTING: Bai11_Muc1.pdf
+[2025-12-08 16:17:44,366] INFO - ============================================================
+[2025-12-08 16:17:44,366] INFO - 📎 Uploading binary file (.pdf)...
+[2025-12-08 16:17:44,368] INFO - 📎 Uploading file to Gemini: Bai11_Muc1.pdf
+[2025-12-08 16:17:49,859] INFO - 🔗 Sending request to Gemini API...
+[2025-12-08 16:17:50,553] ERROR - ❌ Gemini API Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 9.487570003s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+}
+, retry_delay {
+  seconds: 9
+}
+]
+[2025-12-08 16:17:50,553] INFO - 🔄 Parsing response to JSON...
+[2025-12-08 16:17:50,553] WARNING - ⚠️ Could not parse JSON. Returning raw text in error field.
+[2025-12-08 16:17:50,553] INFO - ✅ Found 0 keywords
+[2025-12-08 16:17:52,778] INFO - 🧹 Temp files cleared!
+[2025-12-08 16:17:52,778] WARNING - ⚠️ Không tìm thấy từ khóa nào trong file.
+[2025-12-08 16:17:52,779] INFO - 
+🎉 Tất cả tác vụ đã hoàn tất!
+[2025-12-08 16:19:13,500] INFO - 🚀 Starting Gemini Keyword Extractor
+[2025-12-08 16:19:13,501] INFO - 🔎 Tìm thấy 1 file để xử lý.
+[2025-12-08 16:19:13,501] INFO - 
+--- Processing 1/1: Bai11_Muc1.pdf ---
+[2025-12-08 16:19:13,501] INFO - ============================================================
+[2025-12-08 16:19:13,501] INFO - 🚀 EXTRACTING: Bai11_Muc1.pdf
+[2025-12-08 16:19:13,501] INFO - ============================================================
+[2025-12-08 16:19:13,501] INFO - 📎 Uploading binary file (.pdf)...
+[2025-12-08 16:19:13,501] INFO - 📎 Uploading file to Gemini: Bai11_Muc1.pdf
+[2025-12-08 16:19:18,441] INFO - 🔗 Sending request to Gemini API...
+[2025-12-08 16:19:19,136] ERROR - ❌ Gemini API Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 40.916657238s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+}
+, retry_delay {
+  seconds: 40
+}
+]
+[2025-12-08 16:19:19,137] INFO - 🔄 Parsing response to JSON...
+[2025-12-08 16:19:19,137] WARNING - ⚠️ Could not parse JSON. Returning raw text in error field.
+[2025-12-08 16:19:19,138] INFO - ✅ Found 0 keywords
+[2025-12-08 16:19:20,717] INFO - 🧹 Temp files cleared!
+[2025-12-08 16:19:20,717] WARNING - ⚠️ Không tìm thấy từ khóa nào trong file.
+[2025-12-08 16:19:20,720] INFO - 
+🎉 Tất cả tác vụ đã hoàn tất!

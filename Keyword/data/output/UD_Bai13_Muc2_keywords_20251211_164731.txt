@@ -1,0 +1,10 @@
+CSDL quan hệ
+Bảng
+Bản ghi
+Trường
+Khoá chính
+Khoá ngoài
+Liên kết dữ liệu
+Kiểu dữ liệu
+Dư thừa dữ liệu
+Tính nhất quán dữ liệu

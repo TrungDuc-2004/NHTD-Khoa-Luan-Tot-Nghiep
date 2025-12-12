@@ -1,0 +1,10 @@
+Kiểm soát quyền truy cập
+SQL DCL
+Quyền người dùng
+CSDL (Cơ sở dữ liệu)
+GRANT
+REVOKE
+Cấp quyền
+Thu hồi quyền
+Câu truy vấn SQL
+Bảng dữ liệu

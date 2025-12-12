@@ -1,0 +1,10 @@
+Quản trị Cơ sở dữ liệu
+Nhà quản trị Cơ sở dữ liệu
+Hệ quản trị Cơ sở dữ liệu (QTCSDL)
+An toàn và bảo mật dữ liệu
+Cài đặt và cập nhật hệ QTCSDL
+Tạo lập và điều chỉnh CSDL
+Đảm bảo tài nguyên CSDL
+Sao lưu dữ liệu
+Phân quyền truy cập dữ liệu
+Xử lý sự cố CSDL

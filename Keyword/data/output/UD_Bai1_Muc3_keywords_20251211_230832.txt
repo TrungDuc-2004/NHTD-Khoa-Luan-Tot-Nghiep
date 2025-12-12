@@ -1,0 +1,10 @@
+Hệ điều hành
+Phần cứng
+Phần mềm ứng dụng
+Mối quan hệ hệ điều hành phần cứng phần mềm ứng dụng
+Thiết bị đa năng
+Điều phối tài nguyên
+Dịch vụ hệ điều hành
+Thiết bị chuyên dụng
+Tổ chức dữ liệu
+Bộ vi xử lí (CPU)

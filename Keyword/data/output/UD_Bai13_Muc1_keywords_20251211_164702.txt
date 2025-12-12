@@ -1,0 +1,10 @@
+CSDL quan hệ
+Bảng
+Thuộc tính
+Nhạc sĩ
+Ca sĩ
+Bản nhạc
+Bản thu âm
+Mã định danh
+Quan hệ
+CSDL thông tin âm nhạc

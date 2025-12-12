@@ -1,0 +1,10 @@
+Tổ chức lưu trữ dữ liệu
+Dư thừa dữ liệu
+Không nhất quán dữ liệu
+Độc lập dữ liệu
+Phụ thuộc phần mềm và dữ liệu
+Tính nhất quán dữ liệu
+Bảng điểm học sinh
+Cơ sở dữ liệu (CSDL)
+Hệ thống tệp
+Khai thác thông tin

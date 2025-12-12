@@ -1,0 +1,10 @@
+Hệ quản trị cơ sở dữ liệu (QTCSDL)
+Cơ sở dữ liệu (CSDL)
+Định nghĩa dữ liệu
+Cập nhật dữ liệu
+Truy xuất dữ liệu
+Bảo mật CSDL
+An toàn CSDL
+Giao diện lập trình ứng dụng
+Ràng buộc toàn vẹn dữ liệu
+Sao lưu dự phòng

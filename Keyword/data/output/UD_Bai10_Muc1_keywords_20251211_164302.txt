@@ -1,0 +1,10 @@
+Cập nhật dữ liệu
+Dữ liệu điểm
+Sổ điểm môn học
+Ghi điểm
+Bảng điểm
+Sai sót dữ liệu
+Xoá dữ liệu
+Sửa dữ liệu
+Đánh giá học sinh (ĐĐG)
+Quản lí dữ liệu

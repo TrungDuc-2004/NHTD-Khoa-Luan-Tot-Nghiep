@@ -1,0 +1,10 @@
+Hệ điều hành máy tính cá nhân
+Chức năng hệ điều hành
+Giao diện đồ hoạ (GUI)
+Cơ chế Plug & Play
+Hệ điều hành Windows
+Hệ điều hành LINUX
+Giao diện dòng lệnh (CLI)
+Hệ điều hành nguồn mở
+Quản lí tài nguyên
+Thân thiện, dễ sử dụng

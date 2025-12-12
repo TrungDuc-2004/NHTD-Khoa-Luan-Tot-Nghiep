@@ -1,0 +1,10 @@
+DML (Data Manipulation Language)
+Truy xuất dữ liệu
+Cập nhật dữ liệu
+Câu lệnh SELECT
+Câu lệnh INSERT INTO
+Câu lệnh UPDATE
+Câu lệnh DELETE FROM
+Mệnh đề WHERE
+INNER JOIN
+Câu truy vấn

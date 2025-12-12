@@ -1,0 +1,10 @@
+Ảnh số
+Megapixel
+Điểm ảnh (Pixel)
+Độ phân giải
+DPI (Dots Per Inch)
+PPI (Pixels Per Inch)
+Ảnh bitmap
+Độ rõ nét
+Kích thước ảnh
+Camera (Máy ảnh)
