@@ -1,0 +1,66 @@
+lesson_id,lesson_name,lesson_url
+TH10_CD1_L1,Thông tin và xử lí thông tin,Url bai hoc
+TH10_CD1_L2,Vai trò của thiết bị thông minh và tin học đối với xã hội,Url bai hoc
+TH10_CD1_L3,Một số kiểu dữ liệu và dữ liệu văn bản,Url bai hoc
+TH10_CD1_L4,Hệ nhị phân và dữ liệu số nguyên,Url bai hoc
+TH10_CD1_L5,Dữ liệu logic,Url bai hoc
+TH10_CD1_L6,Dữ liệu âm thanh và hình ảnh,Url bai hoc
+TH10_CD1_L7,Thực hành sử dụng thiết bị số thông dụng,Url bai hoc
+TH10_CD2_L8,Mạng máy tính trong cuộc sống hiện đại,Url bai hoc
+TH10_CD2_L9,An toàn trên không gian mạng,Url bai hoc
+TH10_CD2_L10,Thực hành khai thác tài nguyên trên Internet,Url bai hoc
+TH10_CD3_L11,Ứng xử trên môi trường số – Nghĩa vụ tôn trọng bản quyền,Url bai hoc
+TH10_CD4_L12,Phần mềm thiết kế đồ hoạ,Url bai hoc
+TH10_CD4_L13,Bổ sung các đối tượng đồ hoạ,Url bai hoc
+TH10_CD4_L14,Làm việc với đối tượng đường và văn bản,Url bai hoc
+TH10_CD4_L15,Hoàn thiện hình ảnh đồ hoạ,Url bai hoc
+TH10_CD5_L16,Ngôn ngữ lập trình bậc cao và Python,Url bai hoc
+TH10_CD5_L17,Biến và lệnh gán,Url bai hoc
+TH10_CD5_L18,Các lệnh vào ra đơn giản,Url bai hoc
+TH10_CD5_L19,Câu lệnh rẽ nhánh if,Url bai hoc
+TH10_CD5_L20,Câu lệnh lặp for,Url bai hoc
+TH10_CD5_L21,Câu lệnh lặp while,Url bai hoc
+TH10_CD5_L22,Kiểu dữ liệu danh sách,Url bai hoc
+TH10_CD5_L23,Một số lệnh làm việc với dữ liệu danh sách,Url bai hoc
+TH10_CD5_L24,Xâu kí tự,Url bai hoc
+TH10_CD5_L25,Một số lệnh làm việc với xâu kí tự,Url bai hoc
+TH10_CD5_L26,Hàm trong Python,Url bai hoc
+TH10_CD5_L27,Tham số của hàm,Url bai hoc
+TH10_CD5_L28,Phạm vi của biến,Url bai hoc
+TH10_CD5_L29,Nhận biết lỗi chương trình,Url bai hoc
+TH10_CD5_L30,Kiểm thử và gỡ lỗi chương trình,Url bai hoc
+TH10_CD5_L31,Thực hành viết chương trình đơn giản,Url bai hoc
+TH10_CD5_L32,Ôn tập lập trình Python,Url bai hoc
+TH10_CD6_L33,Nghề thiết kế đồ hoạ máy tính,Url bai hoc
+TH10_CD6_L34,Nghề phát triển phần mềm,Url bai hoc
+TH11_CD1_L1,Hệ điều hành,Url bai hoc 11.1
+TH11_CD1_L2,Thực hành sử dụng hệ điều hành,Url bai hoc 11.2
+TH11_CD1_L3,Phần mềm nguồn mở và phần mềm Internet,Url bai hoc 11.3
+TH11_CD1_L4,Bên trong máy tính,Url bai hoc 11.4
+TH11_CD2_L1,Kết nối máy tính với các thiết bị số,Url bai hoc 11.5
+TH11_CD2_L2,Lưu trữ và chia sẻ tệp tin trên Internet,Url bai hoc 11.6
+TH11_CD2_L3,Thực hành tìm kiếm thông tin trên Internet,Url bai hoc 11.7
+TH11_CD2_L4,Thực hành nâng cao sử dụng thư điện tử,Url bai hoc 11.8
+TH11_CD2_L5,Giao tiếp an toàn trên Internet,Url bai hoc 11.9
+TH11_CD2_L6,Lưu trữ dữ liệu và khai thác thông tin phục vụ học tập,Url bai hoc 11.10
+TH11_CD4_L1,Cơ sở dữ liệu,Url bai hoc 11.11
+TH11_CD4_L2,Hệ quản trị cơ sở dữ liệu và hệ CSDL,Url bai hoc 11.12
+TH11_CD4_L3,Cơ sở dữ liệu quan hệ,Url bai hoc 11.13
+TH11_CD4_L4,SQL – Ngôn ngữ truy vấn CSDL,Url bai hoc 11.14
+TH11_CD4_L5,Bảo mật và an toàn hệ cơ sở dữ liệu,Url bai hoc 11.15
+TH11_CD4_L6,Công việc quản trị cơ sở dữ liệu,Url bai hoc 11.16
+TH11_CD6_L1,Thực hành xác định cấu trúc bảng và khóa,Url bai hoc 11.17
+TH11_CD6_L2,Thực hành tạo lập CSDL và các bảng,Url bai hoc 11.18
+TH11_CD6_L3,Thực hành quản trị CSDL trên máy tính,Url bai hoc 11.19
+TH11_CD6_L4,Thực hành tạo lập CSDL có khóa ngoại,Url bai hoc 11.20
+TH11_CD6_L5,Thực hành nhập, truy xuất dữ liệu tham chiếu,Url bai hoc 11.21
+TH11_CD6_L6,Thực hành cập nhật dữ liệu có tham chiếu,Url bai hoc 11.22
+TH11_CD6_L7,Thực hành truy xuất dữ liệu qua liên kết,Url bai hoc 11.23
+TH11_CD6_L8,Thực hành sao lưu dữ liệu,Url bai hoc 11.24
+TH11_CD7_L1,Phần mềm chỉnh sửa ảnh,Url bai hoc 11.25
+TH11_CD7_L2,Công cụ chỉnh sửa ảnh,Url bai hoc 11.26
+TH11_CD7_L3,Công cụ chỉnh màu sắc và chọn vùng,Url bai hoc 11.27
+TH11_CD7_L4,Tạo ảnh động và một số ứng dụng,Url bai hoc 11.28
+TH11_CD7_L5,Khám phá phần mềm làm phim,Url bai hoc 11.29
+TH11_CD7_L6,Biên tập phim,Url bai hoc 11.30
+TH11_CD7_L7,Thực hành tạo phim hoạt hình,Url bai hoc 11.31
